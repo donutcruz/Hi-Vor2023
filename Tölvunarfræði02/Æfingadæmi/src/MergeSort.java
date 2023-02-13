@@ -30,6 +30,18 @@ public class MergeSort {
         System.out.println("\nSorted array");
         System.out.println(Arrays.toString(array));
     }
+    /* if statement int mid = (left + right) / 2; Reiknar miðju vístölu í sub-array
+    með því að deila summu vinstri og hægri með 2.
+    * sort(array, left, mid); Kallar á endurkvæmt aðferð - fylki, vinstri og miðja sem argument
+    Þetta sorterar vinstri helming sub-array
+    * sort(array, mid + 1, right); kallar á sort-aðferð sendir fylki, miðja + 1
+    Þetta flokkar hægri helming sub-array
+    * merge(array,left,mid,right); Kallar á merge-aðferð notar array,vinstri,miðja,hægri sem arguments
+    merge-aðferðinn sameinar tvo flokkaða sub-array aftur saman í 1x single sorted sub-array
+    */
+
+    // Þessi aðferð skiptir undirflokka í smærri undirfylki þangað til hvert undirfylki samanstendur af einum þætti
+    // Sameinar síðan flokkuðu undirfylki aftur saman til að mynda eina flokkaða fylki.
 
     private void sort(int[] array, int left, int right) {
         if (left < right) {
