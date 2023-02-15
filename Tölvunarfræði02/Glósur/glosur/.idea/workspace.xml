@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="293d39f4-de60-4cf7-a7cd-2d7942be5145" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ResizingArrayQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ResizingArrayQueueDemo.java" afterDir="false" />
+    <list default="true" id="9314b7b5-3f58-48c1-850e-349c26d371f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/glosur.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +29,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2LmC3Z6VBUh5EtTq67wgDIqdQN3" />
+  <component name="ProjectId" id="2Lm8tRMuQbqv0d0xndDHChCuXXr" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -36,7 +39,6 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -55,24 +57,23 @@
     <selection>jr</selection>
   </component>
   <component name="RunManager">
-    <configuration name="DoubleTesting" type="Application" factoryName="Application">
+    <configuration name="DoubleTesting" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DoubleTesting" />
-      <module name="aefingar" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <method v="2" />
+      <module name="glosur" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="293d39f4-de60-4cf7-a7cd-2d7942be5145" name="Changes" comment="" />
-      <created>1676466672562</created>
+      <changelist id="9314b7b5-3f58-48c1-850e-349c26d371f4" name="Changes" comment="" />
+      <created>1676465111398</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1676466672562</updated>
-      <workItem from="1676466673597" duration="1947000" />
+      <updated>1676465111398</updated>
+      <workItem from="1676465112559" duration="1517000" />
     </task>
     <servers />
   </component>
