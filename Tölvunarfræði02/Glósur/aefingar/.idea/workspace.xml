@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="293d39f4-de60-4cf7-a7cd-2d7942be5145" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/algs4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hlutsummur.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DoubleTesting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aefingar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/aefingar.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ResizingArrayQueueDemo.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676466672562</updated>
-      <workItem from="1676466673597" duration="3543000" />
+      <workItem from="1676466673597" duration="4780000" />
     </task>
     <servers />
   </component>
