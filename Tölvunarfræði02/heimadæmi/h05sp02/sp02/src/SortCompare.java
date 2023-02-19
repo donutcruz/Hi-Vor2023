@@ -1,4 +1,7 @@
-import edu.princeton.cs.algs4.*;
+import edu.princeton.cs.algs4.MergeBU;
+import edu.princeton.cs.algs4.Quick;
+import edu.princeton.cs.algs4.QuickX;
+import edu.princeton.cs.algs4.Stopwatch;
 
 public class SortCompare {
     public static double time(String alg, Double[] a) {
