@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1cd0c5b1-fc41-4be5-81d3-4d32177a2a6f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Lausnir/Reiknivel/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vidmot/GreidslaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vidmot/LoginDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vidmot/TakeAwayActionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vidmot/VidskiptavinurDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vidmot/ViewSwitcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vinnsla/Karfa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vinnsla/Matsedill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vinnsla/Veitingar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vinnsla/Vidskiptavinur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/vidmot/pontun-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Synidaemi/vika 6/Serhaefdur/vidmot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hi/verkefni/takeaway/PontunController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hi/verkefni/takeaway/TakeAwayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vidmot/TakeAwayApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hi/verkefni/takeaway/pontun-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Synidaemi/.idea/Synidaemi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Synidaemi/.idea/Synidaemi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Synidaemi/vika 7/7.1/DialogDemoAefing/src/main/java/com/example/dialogdemo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Synidaemi/vika 7/7.1/DialogDemoAefing/src/main/java/com/example/dialogdemo/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LypgK59hOtBmU4wfTfKHygFA3J" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.JavaFX",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunManager">
+    <configuration name="hi.verkefni.takeaway in TakeAway" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TakeAway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hi.verkefni.takeaway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hi.verkefni.takeaway" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.hi.verkefni.takeaway in TakeAway" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cd0c5b1-fc41-4be5-81d3-4d32177a2a6f" name="Changes" comment="" />
+      <created>1676853286525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676853286525</updated>
+      <workItem from="1676853287676" duration="4371000" />
+      <workItem from="1676888907648" duration="600000" />
+      <workItem from="1676905350502" duration="5798000" />
+      <workItem from="1676918388916" duration="10000" />
+      <workItem from="1676921433998" duration="2628000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

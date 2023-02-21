@@ -3,6 +3,6 @@ module hi.verkefni.takeaway {
     requires javafx.fxml;
 
 
-    opens hi.verkefni.takeaway to javafx.fxml;
-    exports hi.verkefni.takeaway;
+    opens vidmot to javafx.fxml;
+    exports vidmot;
 }

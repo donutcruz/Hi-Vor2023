@@ -1,4 +1,4 @@
-package hi.verkefni.takeaway;
+package vidmot;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -12,7 +12,7 @@ public class TakeAwayApplication extends Application {
     public void start(Stage stage) throws IOException {
         FXMLLoader fxmlLoader = new FXMLLoader(TakeAwayApplication.class.getResource("pontun-view.fxml"));
         Scene scene = new Scene(fxmlLoader.load(), 320, 240);
-        stage.setTitle("TakeAway!");
+        stage.setTitle("Pantaðu mat Draslið þitt!");
         stage.setScene(scene);
         stage.show();
     }
