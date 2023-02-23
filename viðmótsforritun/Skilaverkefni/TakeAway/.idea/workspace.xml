@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cd0c5b1-fc41-4be5-81d3-4d32177a2a6f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Lausnir/Reiknivel/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vidmot/GreidslaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vidmot/LoginDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vidmot/TakeAwayActionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vidmot/VidskiptavinurDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vidmot/ViewSwitcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vinnsla/Karfa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vinnsla/Matsedill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vinnsla/Veitingar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vinnsla/Vidskiptavinur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/vidmot/pontun-view.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Synidaemi/vika 6/Serhaefdur/vidmot.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hi/verkefni/takeaway/PontunController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hi/verkefni/takeaway/TakeAwayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vidmot/TakeAwayApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/hi/verkefni/takeaway/pontun-view.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Synidaemi/.idea/Synidaemi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Synidaemi/.idea/Synidaemi.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Synidaemi/vika 7/7.1/DialogDemoAefing/src/main/java/com/example/dialogdemo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Synidaemi/vika 7/7.1/DialogDemoAefing/src/main/java/com/example/dialogdemo/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="1cd0c5b1-fc41-4be5-81d3-4d32177a2a6f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
